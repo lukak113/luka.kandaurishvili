@@ -1,0 +1,155 @@
+.ii{
+    width: 800px;
+    height: 200px;
+    border: solid;
+    text-align: center;
+    
+}
+.first{
+    width: 800px;
+    height: 200px;
+    text-align: right;
+    border: solid;
+    color: red;
+    border-color: black;
+    
+}
+.another{
+    width: 800px;
+    height: 350px;
+    border: solid;
+    border-width: 0.1px;
+}
+.tc{
+    text-align: center;
+}
+.tr{
+    text-align: right;
+}
+.other{
+    width: 800px;
+    height: 250px;
+    border: solid;
+    border-width: 0.1px;
+}
+.basic{
+    width: 800px;
+    height: 700px;
+    border: solid;
+
+}
+.l{
+    width: 600px;
+    height: 30px;
+    border: dotted;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.a{
+    width: 600px;
+    height: 30px;
+    border: dashed;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.b{
+    width: 600px;
+    height: 30px;
+    border:solid;
+    margin-top: 45px;
+    margin-left: 90px;
+}
+.c{
+    width: 600px;
+    height: 30px;
+    border:double;
+    margin-top: 55px;
+    margin-left: 90px;
+}
+.d{
+    width: 600px;
+    height: 30px;
+    border:groove;
+    margin-top: 65px;
+    margin-left: 90px;
+}
+.e{
+    width: 600px;
+    height: 30px;
+    border:ridge;
+    margin-top: 75px;
+    margin-left: 90px;
+}
+.f{
+    width: 600px;
+    height: 30px;
+    border:inset;
+    margin-top: 85px;
+    margin-left: 90px;
+}
+.g{
+    width: 600px;
+    height: 30px;
+    border:ridge;
+    margin-top: 95px;
+    margin-left: 90px;
+}
+.nd{
+    width: 150px;
+    height: 135px;
+    background-color: brown;
+    border-radius: 25px 25px 25px 25px;
+    border: hidden;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.ls{
+    width: 150px;
+    height: 135px; 
+    border-radius: 25px 25px 25px 25px;
+    border: solid;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.lk{
+    width: 150px;
+    height: 135px; 
+    border-radius: 25px 25px 25px 25px;
+    border: solid;
+    margin-top: 90px;
+    margin-left: 10px;
+    background-color: pink;
+}
+.oo{
+    width: 150px;
+    height: 135px;
+    background-color: brown;
+    border-radius: 15px 50px 30px 5px;
+    border: hidden;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.ooo{
+    width: 150px;
+    height: 135px;
+    background-color: brown;
+    border-radius: 15px 50px 30px;
+    border: hidden;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.oio{
+    width: 150px;
+    height: 135px;
+    background-color: brown;
+    border-radius: 50%;
+    border: hidden;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.basic1{
+    width: 800px;
+    height: 500px;
+    border: solid;
+
+}
