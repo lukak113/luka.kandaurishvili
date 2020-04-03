@@ -1,0 +1,23 @@
+.ff{
+    border: solid;
+    height: 300px;
+    width: 1000px ;
+}
+.fff{
+    border: dotted;
+    height: 30px;
+    width: 700px;
+}
+.nxt{
+    border: dotted;
+    height: 30px;
+    width: 700px;
+}
+.an{
+    border-bottom: 40px solid blue;
+    border-left: 20px solid transparent;
+    border-right: 25px solid transparent;
+    height: 400px;
+    width: 600px;
+
+}
