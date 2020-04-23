@@ -1,0 +1,26 @@
+.s{
+    text-align: center;
+    background-color: pink;
+}
+.ls{
+    height: 50px;
+    text-align: center;
+}
+.hs{
+    height: 60px;
+    text-align: center;
+}
+.bk{
+    background-image: url(images/agu.jpg);
+    background-size: 100px 150px;
+}
+.bl{
+    background-image: url(images/kenblock.jpg);
+    background-size: 220px 150px;
+}
+.ag{
+    background-image: url(images/agu.jpg);
+    background-size: 90px 150px;
+    height: 150px;
+    width: 90px;
+}

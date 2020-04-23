@@ -1,0 +1,63 @@
+.QQ{
+    height: 200px;
+    background-color: green;
+    text-align: left;
+    color:white;
+    position: relative;
+}
+.container{
+    height: 400px;
+    
+    
+}
+.box{
+    height: 400px;
+    
+    width: 1100px;
+    position: absolute;
+    
+}
+.box1{
+    right: 8px;
+}
+.boxx{
+    height: 50px;
+    width: 400px;   
+    position: absolute;
+    background-color: violet;
+
+}
+.box2{
+    top: 240px;
+    left: 30px;
+    color: white;
+}
+.box3{
+    top:320px;
+    left: 30px;
+    color: white;
+}
+.box4{
+    top: 400px;
+    left: 30px;
+    color: white;
+}
+.box5{
+    top: 480px;
+    left: 30px;
+    color: white;
+}
+.box6{
+    top:560px;
+    left:30px;
+    color: white;
+}
+.qq{
+    height: 150px;
+    background-color: green;
+    text-align: left;
+    color:white;
+    position: relative;
+    text-align: center;
+
+}
