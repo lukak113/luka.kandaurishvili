@@ -1,0 +1,122 @@
+header{
+    margin:auto;
+    width: 900px;
+    height: 150px;
+    border: solid black 1px;
+    background-image: url(images/wow.jpg );
+    background-size: 900px 150px;
+    background-repeat: no-repeat;
+}
+section{
+    margin: auto;
+    width: 900px;
+    height: 400px;
+    border: solid black 1px;
+    overflow: hidden;
+    
+}
+.pd{
+    padding: 5px;
+    float: left;
+    
+}
+footer{
+    margin: auto;
+    width: 900px;
+    height: 20px;
+    border: solid black 1px;
+    text-align: center;
+}
+nav{
+    height: 400px;
+    width: 150px;
+    background-color: green;
+    float: left;
+    display: block;
+    
+
+    
+    
+ }
+ .der{
+     margin: 0px;
+     padding: 0px;
+     border-bottom: 1px black solid;
+     
+     
+ }
+ nav ul li{
+     border-bottom: black 1px solid;
+     text-decoration: none;
+     
+     
+ }
+ li{
+    height: 30px;
+    text-decoration: none;
+ }
+ .ww{
+     background-image: url(image/phot.);
+ } 
+ .tt{
+     width: 900px;
+     height: 20px;
+     border-left: 1px solid black;
+     border-right: 1px solid black;
+     position: relative;
+     left: 341px;
+ }    
+
+
+
+    
+ .ttt{
+    height: 15px;
+    width: 100px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+ }
+ .omaeva{
+     width: 100px;
+     padding: 0px;
+     
+ }
+ .pdf{
+    padding: 5px;
+    float: right;
+    position: relative;
+    right: 0px;
+    
+    
+}
+.line{
+    position: relative;
+    margin-top: 10px;
+}
+.jj{
+    height: 900px;
+    width: 150px;
+    border: solid black 1px;
+    
+}
+.ii{
+    margin-left: 5px;
+    color:blue;
+}
+.iii{
+    margin-left: 5px;
+    color:blue;
+    height: 200px;
+    width: 300px;
+}
+.d{
+    height: 400px;
+    width: 900px;
+    
+    position: relative;
+    
+}
+.fl{
+    float: left;
+    
+}

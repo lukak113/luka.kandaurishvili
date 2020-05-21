@@ -1,0 +1,19 @@
+form{
+    height: 200px;
+    width: 250px;
+    background-color: lightgray;
+    margin: auto;
+    border-left: black 1px solid;
+    border-bottom: black 1px solid;
+    
+    
+}
+.bt{
+    
+    color: white;
+    background-color: red;
+    text-align: center;
+    width: 180px;
+    border-radius: 10px;
+    height: 30px;
+}

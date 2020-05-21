@@ -1,0 +1,31 @@
+form{
+    min-height: 620px;
+    width: 800px; ;
+    border: solid 1px gray;
+    margin: auto;
+    padding: px;
+    background-color: lightgray;
+
+}
+.mh{
+    min-width: 400px;
+}
+.deda{
+    padding: 7px;
+    margin-right: 5px;
+}
+.ded{
+    padding: 7px;
+    margin-right: 5px;
+    height: 150px;
+    
+}
+.uy{
+    height: 50px;
+    width: 250px;
+    background-color: green;
+    color:white;
+    position: relative;
+    left: 260px;
+    
+}
